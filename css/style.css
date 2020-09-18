@@ -199,7 +199,7 @@ body main footer *:first-child + html .wrapper-cta {
 
 ::selection {
     color: white;
-    background: black;
+    background: rgb(73, 73, 73);
 }
 
 body {
@@ -242,6 +242,7 @@ body a span:not(emoji) {
 
 body a.cta {
     color: #86E98F;
+    ;
 }
 
 body p,
@@ -340,7 +341,7 @@ body #mainWrapper main::after {
 --------------------------------------------------------------*/
 
 body {
-    background: rgb(55, 82, 55);
+    background: rgb(61, 61, 61);
 }
 
 body main {
